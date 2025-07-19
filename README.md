@@ -6,7 +6,6 @@
   🔌 Fan de microcontrôleurs, électronique & projets interactifs
 </p>
 
----
 
 ### 🧠 À propos de moi
 
@@ -17,7 +16,6 @@
 - 📺 Je partage mes projets et mes sessions live sur [Twitch](https://twitch.tv/dextry_gaming)
 - 🎯 Toujours en quête d’**efficacité**, de **design clair** et de **projets utiles**
 
----
 
 ### 🛠️ Stack & Outils
 
@@ -31,17 +29,14 @@
 ![Discord.py](https://img.shields.io/badge/-discord.py-5865F2?style=flat&logo=discord&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 Mes stats GitHub
+### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dextry&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats-nine-liard-79.vercel.app/api?username=dextry&show_icons=true&count_private=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextry&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats-nine-liard-79.vercel.app/api/top-langs/?username=dextry&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 
----
 
 ### 🔗 Reste en contact
 
