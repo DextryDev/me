@@ -32,9 +32,9 @@
 ### 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-liard-79.vercel.app/api?username=dextry&show_icons=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-nine-liard-79.vercel.app/api?username=DextryDev&show_icons=true&count_private=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats-nine-liard-79.vercel.app/api/top-langs/?username=dextry&layout=compact&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-nine-liard-79.vercel.app/api/top-langs/?username=DextryDev&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 
 
