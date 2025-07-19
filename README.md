@@ -36,9 +36,3 @@
   <br/>
   <img src="https://github-readme-stats-nine-liard-79.vercel.app/api/top-langs/?username=DextryDev&layout=compact&count_private=true&theme=tokyonight" />
 </p>
-
-
-### 🔗 Reste en contact
-
-- 🎥 Twitch : [dextry_gaming](https://twitch.tv/dextry_gaming)  
-- 📬 Contact : *ajoute ton e-mail ou Discord ici si tu veux*  
